@@ -21,6 +21,7 @@ It focuses on handling parent to child window navigation, multiple tabs, and lin
 - Basic synchronization using WebDriverWait
 - XPath & CSS Selectors
 - Real-time browser interaction
+- Login validation and fill form 
 
 ### Selenium Concepts Implemented
  - getWindowHandles()
