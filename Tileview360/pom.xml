@@ -22,6 +22,12 @@
   <version>4.18.1</version>  <!-- or latest available -->
 </dependency>
 
+<dependency>
+  <groupId>ru.yandex.qatools.ashot</groupId>
+  <artifactId>ashot</artifactId>
+  <version>1.5.4</version>
+</dependency>
+
 
 <!-- https://mvnrepository.com/artifact/org.testng/testng -->
 <dependency>
